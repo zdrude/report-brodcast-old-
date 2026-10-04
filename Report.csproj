@@ -1,0 +1,104 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\зависимости\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\зависимости\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\зависимости\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Cryptography">
+      <HintPath>..\зависимости\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="CommandSystem.Core">
+      <HintPath>..\зависимости\CommandSystem.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.API">
+      <HintPath>..\зависимости\Exiled.API.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.CreditTags">
+      <HintPath>..\зависимости\Exiled.CreditTags.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.CustomItems">
+      <HintPath>..\зависимости\Exiled.CustomItems.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.CustomRoles">
+      <HintPath>..\зависимости\Exiled.CustomRoles.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Events">
+      <HintPath>..\зависимости\Exiled.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Loader">
+      <HintPath>..\зависимости\Exiled.Loader.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Permissions">
+      <HintPath>..\зависимости\Exiled.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>..\зависимости\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="HintServiceMeow">
+      <HintPath>..\зависимости\HintServiceMeow.dll</HintPath>
+    </Reference>
+    <Reference Include="hud-depence">
+      <HintPath>..\зависимости\hud-depence.dll</HintPath>
+    </Reference>
+    <Reference Include="LabApi">
+      <HintPath>..\зависимости\LabApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Mirror">
+      <HintPath>..\зависимости\Mirror.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Posix">
+      <HintPath>..\зависимости\Mono.Posix.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector">
+      <HintPath>..\зависимости\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\зависимости\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NorthwoodLib">
+      <HintPath>..\зависимости\NorthwoodLib.dll</HintPath>
+    </Reference>
+    <Reference Include="NVorbis">
+      <HintPath>..\зависимости\NVorbis.dll</HintPath>
+    </Reference>
+    <Reference Include="Pooling">
+      <HintPath>..\зависимости\Pooling.dll</HintPath>
+    </Reference>
+    <Reference Include="ProjectMER">
+      <HintPath>..\зависимости\ProjectMER.dll</HintPath>
+    </Reference>
+    <Reference Include="RueI">
+      <HintPath>..\зависимости\RueI.dll</HintPath>
+    </Reference>
+    <Reference Include="SemanticVersioning">
+      <HintPath>..\зависимости\SemanticVersioning.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <HintPath>..\зависимости\System.ComponentModel.DataAnnotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>..\зависимости\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\зависимости\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\зависимости\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\зависимости\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
