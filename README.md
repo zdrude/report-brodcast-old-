@@ -33,23 +33,6 @@ I created this tool to help server administrators notice player reports instantl
 * **Удобное форматирование:** Выделяет важную информацию цветом, чтобы её было легко прочитать во время игры.
 * **Легковесность:** Минималистичный и чистый код, который не нагружает ваш сервер.
 
-### ⚙️ Требования
-* **EXILED:** `8.0.0` или выше
-* **Целевая платформа:** `.NET Standard 2.1`
-
-### 🔧 Установка
-1. Скачайте скомпилированный `.dll` файл со страницы [Releases](https://github.com/zdrude/report-brodcast-old-/releases).
-2. Поместите `AdminReportBroadcast.dll` в папку `EXILED/Plugins` вашего сервера.
-3. Перезагрузите сервер или обновите плагины!
-
----
-
-## 💬 Feedback & Support / Обратная связь
-
-Since this is my first project, any feedback, suggestions, or bug reports are highly appreciated! Feel free to open an **Issue** or submit a **Pull Request**.
-
-Так как это мой первый плагин, буду рад любым отзывам, идеям и сообщениям о багах! Смело создавайте **Issue** или **Pull Request**.
-
 ---
 
 ### 👤 Author / Автор
