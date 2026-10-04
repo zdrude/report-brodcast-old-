@@ -14,10 +14,6 @@ I created this tool to help server administrators notice player reports instantl
 * **Clear Formatting:** Highlights names and reasons using colors so reports are easy to read at a glance.
 * **Lightweight & Clean:** Simple, optimized code that doesn't waste server resources.
 
-### ⚙️ Requirements
-* **EXILED:** `8.0.0` or higher
-* **Target Framework:** `.NET Standard 2.1`
-
 ### 🔧 Installation
 1. Download the compiled `.dll` file from the [Releases]([https://github.com/zdrude/report-brodcast-old-/releases) page.
 2. Drop the `AdminReportBroadcast.dll` into your server's `EXILED/Plugins` directory.
