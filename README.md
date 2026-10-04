@@ -19,7 +19,7 @@ I created this tool to help server administrators notice player reports instantl
 * **Target Framework:** `.NET Standard 2.1`
 
 ### 🔧 Installation
-1. Download the compiled `.dll` file from the [Releases](https://github.com/YOUR_USERNAME/AdminReportBroadcast/releases) page.
+1. Download the compiled `.dll` file from the [Releases]([https://github.com/zdrude/report-brodcast-old-/releases) page.
 2. Drop the `AdminReportBroadcast.dll` into your server's `EXILED/Plugins` directory.
 3. Restart or reload your server!
 
@@ -38,7 +38,7 @@ I created this tool to help server administrators notice player reports instantl
 * **Целевая платформа:** `.NET Standard 2.1`
 
 ### 🔧 Установка
-1. Скачайте скомпилированный `.dll` файл со страницы [Releases](https://github.com/YOUR_USERNAME/AdminReportBroadcast/releases).
+1. Скачайте скомпилированный `.dll` файл со страницы [Releases](https://github.com/zdrude/report-brodcast-old-/releases).
 2. Поместите `AdminReportBroadcast.dll` в папку `EXILED/Plugins` вашего сервера.
 3. Перезагрузите сервер или обновите плагины!
 
